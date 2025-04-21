@@ -28,7 +28,7 @@ This repository contains our code, data, and output for our ASL digit sign class
 - `LICENSE.md` → MIT License  
 
 📂 **DATA/**  
-- `palceholder` → Dataset of ASL digit images (`0-9` subfolders)
+- `asl_data_link.html` → Dataset of ASL digit images (`0-9` subfolders)
 
 📂 **SCRIPTS/**  
 - `ASL_Digit_CNN_Analysis.ipynb` → Main Colab notebook used to run the analysis
