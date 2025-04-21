@@ -19,8 +19,6 @@ This repository contains our code, data, and output for our ASL digit sign class
   - `keras`  
   - `glob`  
   - `os`
-- **Platform:** Windows 11 / macOS Monterey / Google Colab
-
 ---
 
 ## **2. Documentation Map**
