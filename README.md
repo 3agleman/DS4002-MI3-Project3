@@ -76,6 +76,12 @@ This repository contains our code, data, and output for our ASL digit sign class
 
 ## **5. Summary**
 
-This project aimed to build a machine learning model that can accurately classify static images of ASL digit signs using a Convolutional Neural Network. With proper preprocessing, model design, and evaluation, the model was able to achieve high accuracy in identifying the correct digit, showcasing the power of deep learning in accessibility technology.
+This project aims to create a product that can reliably and accurately predict which ASL digit is being signed based on a static image of that sign. In this project, we:
+- Obtained a dataset of approximately 2180 images of ASL digit signs (0-9), signed by different people.
+- Transferred that dataset to Google Drive and created a machine learning algorithm in Python using CNN (Convolutional Neural Networks) to analyze the images.
+- After training the CNN model on 75% of the data, we tested our model on the remaining 25% of the data.
+- We then studied the performance of our model using the standard metrics (accuracy, F1 scores, a confusion matrix, etc).
+
+Overall, we were able to create a model that can accurately classify signs from 75-95% accuracy, depending on the sign. These results highlight the possible ways to use machine learning methods to bridge cross-cultural communication gaps and improve our understanding of other languages - including signed languages like ASL. 
 
 **Team 7, The Unsupervised Learners – DS 4002**
